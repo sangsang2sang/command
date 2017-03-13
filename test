@@ -6,5 +6,9 @@ This is a modified file.
 Hello !!!!!
 yyyyyyyyyyyyyyyyyyyyy
 
+<<<<<<< HEAD
 
 LocalPC
+=======
+GitHub  =======>  LocalPC
+>>>>>>> b84585f6fc7b676d6b72a2da7ef1c8b7d75bd903
